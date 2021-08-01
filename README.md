@@ -2,4 +2,4 @@
 simple login page using php and mysql
 
 # Live
- jazzlogger.epizy.com
+ http://jazzlogger.epizy.com
